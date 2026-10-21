@@ -22,10 +22,6 @@ Welcome to my GitHub profile!
 - Robotics
 - Open-source projects
 
-## 📈 GitHub Stats
-![Daisy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaisyNBN&show_icons=true&theme=default)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaisyNBN&layout=compact&theme=default)
-
 ## 📚 Currently Learning
 - Computer Graphics
 - System Design
